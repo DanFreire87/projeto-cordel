@@ -61,7 +61,7 @@ section {
     line-height: 2em; /* Define o espaçamento entre as linhas */
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 5vw;
 }
 
 section > p {
@@ -90,7 +90,7 @@ section.imagem > p {
 
 section#img01 {
     background-image: url('../imagens/background001.jpg'); /* O ../ abre a pasta acima da atual */
-    background-position: right center;
+    background-position: center;
     
 }
 
@@ -103,4 +103,5 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    font-size: 13px;
 }
